@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizQCM</string>
+    <string name="qustion_1">Qustion_1</string>
+    <string name="quelle_est_le_r_sultat_de_cette_adition_1_2">quelle_est_le_r_sultat_de_cette_adition_1_2</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="suivant">suivant</string>
+    <string name="quelle_est_le_r_sultat_de_cette_adition_1_2">quelle_est_le_r_sultat_de_cette_adition_1_2</string>
+    <string name="qustion_2">qustion_2</string>
+    <string name="demain_je_chef_de_projet">Demain_je_....._chef_de_projet</string>
+    <string name="serai">Serai</string>
+    <string name="ferai">Ferai</string>
+    <string name="deviens">Deviens</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="suivant">suivant</string>
+    <string name="_5">5</string>
+    <string name="qustion1">Qustion1</string>
+    <string name="quelle_est_le_r_sultat_de_cette_soustraction_5_2">quelle_est_le_résultat_de_cette_soustraction_5-2</string>
+    <string name="quelle_est_le_resultat_de_cette_soustraction_5_2">quelle est le resultat de cette soustraction 5_2</string>
+    <string name="plus_tard_je_chef_de_projet">Plus tard je...chef de projet</string>
+</resources>
